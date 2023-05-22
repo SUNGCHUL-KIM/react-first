@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.9d6d1a94.js",
-    "index.html": "/index.html",
-    "main.9d6d1a94.js.map": "/static/js/main.9d6d1a94.js.map"
+    "main.js": "/react-first.git/static/js/main.9d6d1a94.js",
+    "index.html": "/react-first.git/index.html",
+    "main.9d6d1a94.js.map": "/react-first.git/static/js/main.9d6d1a94.js.map"
   },
   "entrypoints": [
     "static/js/main.9d6d1a94.js"
