@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-first.git/static/js/main.8d59c17e.js",
-    "index.html": "/react-first.git/index.html",
-    "main.8d59c17e.js.map": "/react-first.git/static/js/main.8d59c17e.js.map"
+    "main.js": "/react-first/static/js/main.a2f2c2cc.js",
+    "index.html": "/react-first/index.html",
+    "main.a2f2c2cc.js.map": "/react-first/static/js/main.a2f2c2cc.js.map"
   },
   "entrypoints": [
-    "static/js/main.8d59c17e.js"
+    "static/js/main.a2f2c2cc.js"
   ]
 }
